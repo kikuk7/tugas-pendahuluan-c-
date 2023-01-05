@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672585298 source:d:\kuliah\tptptpp\main.cpp
+	"Tree.h"
+
+1672585298 source:d:\kuliah\tptptpp\tree.cpp
+	"Tree.h"
+
+1672585298 d:\kuliah\tptptpp\tree.h
+	<iostream>
+
